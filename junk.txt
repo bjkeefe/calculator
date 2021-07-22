@@ -1,0 +1,1 @@
+just some junk, so we can get Git to launch its editor again
